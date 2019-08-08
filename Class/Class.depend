@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1565274050 source:c:\users\karthik\desktop\c++ practice\class\main.cpp
+	<iostream>
+	<string>
+	"Biryani.h"
+	"Upma.h"
+
+1565273736 source:c:\users\karthik\desktop\c++ practice\class\biryani.cpp
+	"Biryani.h"
+	<iostream>
+
+1565273574 c:\users\karthik\desktop\c++ practice\class\biryani.h
+
+1565274163 c:\users\karthik\desktop\c++ practice\class\upma.h
+
+1565274163 source:c:\users\karthik\desktop\c++ practice\class\upma.cpp
+	"Upma.h"
+	<iostream>
+
