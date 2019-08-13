@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1565688737 source:c:\users\karthik\desktop\c++ practice\composition\people.cpp
+	"People.h"
+
+1565691705 c:\users\karthik\desktop\c++ practice\composition\people.h
+	<string>
+	"Birthday.h"
+
+1565690393 source:c:\users\karthik\desktop\c++ practice\composition\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1565690413 c:\users\karthik\desktop\c++ practice\composition\birthday.h
+
+1565691450 source:c:\users\karthik\desktop\c++ practice\composition\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
