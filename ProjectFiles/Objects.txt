@@ -1,0 +1,7 @@
+candy 20
+meth -40
+fruit 25
+chair 0
+girl 0
+dosa 1000
+smoke -39
